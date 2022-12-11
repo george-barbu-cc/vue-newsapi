@@ -4,7 +4,6 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "spa-vue-newsapi",
   plugins: [vue()],
   server: {
     watch: {
