@@ -1,0 +1,34 @@
+{
+  "name": "SPA NewsAPI",
+  "private": true,
+  "version": "1.0.0",
+  "repository": "george-barbu-cc/spa-vue-newsapi",
+  "license": "MIT",
+  "author": {
+    "name": "George Barbu",
+    "email": "hi@barbu.cc",
+    "url": "https://george.barbu.cc"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@heroicons/vue": "^2.0.13",
+    "@tailwindcss/forms": "^0.5.3",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "@vue/compiler-sfc": "^3.2.31",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.7",
+    "sass": "^1.55.0",
+    "tailwindcss": "^3.0.23",
+    "vite": "^3.2.0",
+    "vite-plugin-eslint": "^1.8.1"
+  }
+}
